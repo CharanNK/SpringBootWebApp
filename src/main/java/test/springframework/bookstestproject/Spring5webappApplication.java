@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp;
+package test.springframework.bookstestproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

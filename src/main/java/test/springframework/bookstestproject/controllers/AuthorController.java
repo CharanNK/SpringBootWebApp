@@ -1,6 +1,6 @@
-package guru.springframework.spring5webapp.controllers;
+package test.springframework.bookstestproject.controllers;
 
-import guru.springframework.spring5webapp.repositories.AuthorRepository;
+import test.springframework.bookstestproject.repositories.AuthorRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,11 +1,11 @@
-package guru.springframework.spring5webapp.bootstrap;
+package test.springframework.bookstestproject.bootstrap;
 
-import guru.springframework.spring5webapp.domain.Author;
-import guru.springframework.spring5webapp.domain.Book;
-import guru.springframework.spring5webapp.domain.Publisher;
-import guru.springframework.spring5webapp.repositories.AuthorRepository;
-import guru.springframework.spring5webapp.repositories.BookRepository;
-import guru.springframework.spring5webapp.repositories.PublisherRepository;
+import test.springframework.bookstestproject.domain.Author;
+import test.springframework.bookstestproject.domain.Book;
+import test.springframework.bookstestproject.domain.Publisher;
+import test.springframework.bookstestproject.repositories.AuthorRepository;
+import test.springframework.bookstestproject.repositories.BookRepository;
+import test.springframework.bookstestproject.repositories.PublisherRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
